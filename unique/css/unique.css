@@ -19,7 +19,7 @@ dt {
 
 @font-face {
     font-family: acidic;
-    src: url(../font/Acidic.TTF);
+    src: url(/unique/font/Acidic.TTF);
 }
 
 @font-face {
