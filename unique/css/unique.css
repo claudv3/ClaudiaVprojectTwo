@@ -10,7 +10,8 @@ a {
     text-decoration: none;
     margin-left: 1em;
     animation-name: text-focus-in;
-    animation-duration: 6s;
+    animation-duration: 4s;
+    animation-delay: 3ms;
     
     
 }
