@@ -24,8 +24,8 @@ dt {
 
 h5 {
     padding: 0;
-    margin-left: 13%;
-    font-size: 25%;
+    margin-left: 4em;
+    font-size: 25px;
     animation-name: text-focus-in;
     animation-duration: 3s;
 }
