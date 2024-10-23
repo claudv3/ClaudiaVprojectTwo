@@ -6,7 +6,7 @@ by Claudia Vela
  These lyrics from Dance in the Fire by Machine Girl resonated with my sense of community. What I define community is to be comfortable with myself and surround myself with others who are not afraid to let out their "inner freak", that is, their own true selves.
 
  ## technical overview
- The user is presented with text with CSS animations and they would notice a pink text that is animated differently than the rest. The user would click on it to proceed to the next page. There are three pages in total. The final page's hyperlink will go back to the beginning. 
+ The user is presented with CSS animated text and they would notice pink text that is animated differently than the rest. The user would click on it to proceed to the next page of text. There are three pages in total. The final page's hyperlink will go back to the beginning. 
 
  Coding software is Visual Studio Code, languages in CSS and HTML. Hosting platform is GitHub.
 
