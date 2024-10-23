@@ -13,8 +13,9 @@ a {
     padding: 0;
     margin-left: 1em;
     animation-name: text-focus-in;
-    animation-duration: 4s;
-    animation-delay: 3ms;
+    animation-duration: 2.5s;
+    
+    animation-timing-function: ease-in;
  
 
     

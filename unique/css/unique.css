@@ -10,8 +10,9 @@ a {
     text-decoration: none;
     margin-left: 1em;
     animation-name: text-focus-in;
-    animation-duration: 4s;
-    animation-delay: 3ms;
+    animation-duration: 2s;
+    
+    animation-timing-function: ease-in;
     
     
 }
@@ -20,7 +21,7 @@ dt {
     padding: 0;
   margin-left: 1em;
   animation-name: slide-in-blurred-top;
-  animation-duration: 2s;
+  animation-duration: 1.5s;
 
 }
 
